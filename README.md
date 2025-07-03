@@ -1,7 +1,7 @@
 # 🌊 HealthWave - Solfeggio Frekans Terapisi Platformu
 
 <div align="center">
-  <img src="./frontend/public/helatwave_logo.svg" alt="HealthWave Logo" width="200"/>
+  <img src="https://ibb.co/KjCTBGn2" alt="HealthWave Logo" width="200"/>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Django](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
@@ -39,7 +39,7 @@
 
 - **Solfeggio Frekansları**: 174Hz, 285Hz, 396Hz, 417Hz, 528Hz, 639Hz, 741Hz, 852Hz, 963Hz şifa frekansları
 - **Özelleştirilebilir Seanslar**: Süre ve frekans seçimi
-- **Yüksek Kalite Audio**: MP3, WAV formatlarında kristal netlikte ses
+- **Yüksek Kalite Audio**: MP3 formatlarında kristal netlikte ses
 - **Bilimsel Temelli**: Araştırmalara dayalı frekans terapisi
 
 ### 📊 Sağlık Takibi
@@ -52,7 +52,6 @@
 ### 🤖 Yapay Zeka Chatbot
 
 - **7/24 AI Destek**: Yapay zeka ile sağlık ve frekans konularında anında yardım
-- **Akıllı Öneriler**: Kullanıcının verilerine göre AI destekli özel tavsiyeler
 - **Eğitici İçerik**: Solfeggio frekansları ve sağlık hakkında bilgiler
 - **Doğal Dil İşleme**: İnsan benzeri etkileşim deneyimi
 
@@ -71,7 +70,7 @@
 - **Framework**: Django 4.2 + Django REST Framework
 - **Veritabanı**: Supabase PostgreSQL
 - **Kimlik Doğrulama**: JWT (Simple JWT)
-- **API**: Kapsamlı dokümantasyonlu RESTful API
+- **API**: Kapsamlı dokümantasyonlu RESTful API(POSTMAN Dökümantasyonu)
 - **Dosya Depolama**: Supabase Storage
 - **Gerçek Zamanlı**: Supabase Realtime
 - **Güvenlik**: CORS, throttling, rate limiting
@@ -157,7 +156,6 @@ yarn dev
 ### 4. Erişim URL'leri
 
 - **Frontend**: http://localhost:3000
-- **Android App**: Google Play Store'da mevcut
 - **Backend API**: http://localhost:8000
 - **Admin Panel**: http://localhost:8000/admin
 - **Supabase Dashboard**: https://app.supabase.com
@@ -204,21 +202,65 @@ yarn dev
 
 ## 📸 Ekran Görüntüleri
 
-### Ana Sayfa
+### 🌐 Web Arayüzü
 
-_Ana sayfa ekran görüntüsü buraya gelecek_
+#### Ana Sayfa
 
-### Dashboard
+<div align="center">
+  <img src="resimler/web/Homepage.png" alt="HealthWave Ana Sayfa" width="600"/>
+  <p><em>Modern ve kullanıcı dostu ana sayfa tasarımı</em></p>
+</div>
 
-_Dashboard ekran görüntüsü buraya gelecek_
+#### Dashboard - Koyu Tema
 
-### Frekans Player
+<div align="center">
+  <img src="resimler/web/dashboard_black.png" alt="Dashboard - Koyu Tema" width="600"/>
+  <p><em>Göz dostu koyu tema ile dashboard görünümü</em></p>
+</div>
 
-_Frekans player ekran görüntüsü buraya gelecek_
+#### Dashboard - Açık Tema
 
-### Sağlık Raporları
+<div align="center">
+  <img src="resimler/web/dashboard_white.png" alt="Dashboard - Açık Tema" width="600"/>
+  <p><em>Aydınlık ve temiz açık tema dashboard</em></p>
+</div>
 
-_Sağlık raporları ekran görüntüsü buraya gelecek_
+#### Platform Özellikleri
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="resimler/web/web_1.png" alt="Frekans Player" width="280"/>
+        <br>
+        <strong>🎵 Solfeggio Frekans Player</strong>
+      </td>
+      <td align="center">
+        <img src="resimler/web/web_2.png" alt="Sağlık Takibi" width="280"/>
+        <br>
+        <strong>📊 Günlük Sağlık Takibi</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resimler/web/web_3.png" alt="AI Chatbot" width="280"/>
+        <br>
+        <strong>🤖 Yapay Zeka Chatbot</strong>
+      </td>
+      <td align="center">
+        <img src="resimler/web/web_4.png" alt="Raporlar" width="280"/>
+        <br>
+        <strong>📋 Detaylı Raporlar</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📱 Android Uygulaması
+
+<div align="center">
+  <p><em>🚧 Android uygulama ekran görüntüleri yakında eklenecek...</em></p>
+</div>
 
 ## 🔧 Geliştirme Ortamı
 
@@ -233,21 +275,65 @@ _Sağlık raporları ekran görüntüsü buraya gelecek_
 
 - `frontend/app/`: Next.js app router
 - `android/`: Kotlin Android uygulaması
-- `frontend/components/`: Yeniden kullanılabilir bileşenler
-- `frontend/lib/`: Utility fonksiyonları
-- `frontend/styles/`: Global stiller
 
 ### Veritabanı Yapısı (Supabase PostgreSQL)
 
-```
-User (Supabase Auth)
-├── DailyLog (günlük sağlık kayıtları)
-├── Session (dinleme seansları)
-├── ChatbotLog (AI chatbot konuşmaları)
-└── PDFReport (sağlık raporları)
+```sql
+-- Ana Uygulama Tabloları
+┌─────────────────────────────────────────────────────────────┐
+│                     🗄️ HEALTHWAVE DATABASE                   │
+└─────────────────────────────────────────────────────────────┘
 
-Frequency (solfeggio frekans dosyaları)
-└── Session (many-to-one ilişki)
+📊 api_dailylog                    🎵 api_frequency
+├── id (bigint, PK)               ├── id (bigint, PK)
+├── date (date)                   ├── name (varchar)
+├── stress (integer)              ├── frequency_hz (double)
+├── sleep_duration (double)       ├── category (varchar)
+├── restfulness (integer)         ├── description (text)
+├── pulse (integer)               ├── scientific_reference (text)
+├── focus (integer)               ├── usage_count (integer)
+├── mood (varchar)                ├── is_active (boolean)
+├── physical_activity (text)      ├── audio_file (varchar)
+├── note (text)                   └── audio_url (varchar)
+├── created_at (timestamp)
+└── user_id (FK → auth_user)
+
+🎧 api_session                     🤖 api_chatbotlog
+├── id (bigint, PK)               ├── id (bigint, PK)
+├── listened_at (timestamp)       ├── user_message (text)
+├── duration_seconds (integer)    ├── bot_response (text)
+├── completed (boolean)           ├── message_type (varchar)
+├── rating (integer)              ├── user_rating (integer)
+├── user_id (FK → auth_user)      ├── is_helpful (boolean)
+└── frequency_id (FK → api_frequency) ├── response_time_seconds (double)
+                                  ├── created_at (timestamp)
+                                  └── user_id (FK → auth_user)
+
+📋 api_pdfreport                   👤 auth_user (Django Auth)
+├── id (bigint, PK)               ├── id (integer, PK)
+├── title (varchar)               ├── username (varchar, UNIQUE)
+├── description (text)            ├── email (varchar)
+├── file (varchar)                ├── password (varchar)
+├── file_size (integer)           ├── first_name (varchar)
+├── download_count (integer)      ├── last_name (varchar)
+├── is_active (boolean)           ├── is_active (boolean)
+├── created_at (timestamp)        ├── is_staff (boolean)
+└── user_id (FK → auth_user)      ├── is_superuser (boolean)
+                                  ├── last_login (timestamp)
+                                  └── date_joined (timestamp)
+
+🔗 İlişkiler:
+├── User → DailyLog (1:N)
+├── User → Session (1:N)
+├── User → ChatbotLog (1:N)
+├── User → PDFReport (1:N)
+└── Frequency → Session (1:N)
+
+📈 Analitik Verileri:
+├── Günlük sağlık metrikleri (stress, uyku, odaklanma)
+├── Frekans dinleme geçmişi ve süreleri
+├── AI chatbot etkileşim analizi
+└── Kullanıcı aktivite raporları
 ```
 
 ## 🔒 Güvenlik
@@ -268,11 +354,6 @@ Frequency (solfeggio frekans dosyaları)
 - [ ] Giyilebilir cihaz entegrasyonu
 - [ ] Çoklu dil desteği
 - [ ] Offline mod desteği
-
-## 🐛 Bilinen Sorunlar
-
-- Büyük dosya yükleme için progress bar eklenmeli
-- Gerçek zamanlı özellikler için WebSocket entegrasyonu gerekli
 
 ## 📞 Destek
 
