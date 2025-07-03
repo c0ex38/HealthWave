@@ -1,4 +1,4 @@
-# 🌊 HealthWave - Binaural Beats ve Frekans Terapisi Platformu
+# 🌊 HealthWave - Solfeggio Frekans Terapisi Platformu
 
 <div align="center">
   <img src="./frontend/public/helatwave_logo.svg" alt="HealthWave Logo" width="200"/>
@@ -23,7 +23,7 @@
 
 ## 🎵 Proje Hakkında
 
-**HealthWave**, binaural beats ve solfeggio frekansları kullanarak kullanıcıların zihinsel ve fiziksel sağlığını desteklemeyi amaçlayan modern bir web platformudur. Platform, ses terapisi, günlük sağlık takibi ve kişiselleştirilmiş öneriler sunarak kullanıcıların genel yaşam kalitesini artırmayı hedefler.
+**HealthWave**, solfeggio frekansları kullanarak kullanıcıların zihinsel ve fiziksel sağlığını desteklemeyi amaçlayan modern bir platform projesidir. Platform, ses terapisi, günlük sağlık takibi ve yapay zeka destekli chatbot ile kişiselleştirilmiş öneriler sunarak kullanıcıların genel yaşam kalitesini artırmayı hedefler.
 
 ### 🎯 Temel Hedefler
 
@@ -37,10 +37,10 @@
 
 ### 🔊 Ses Terapisi
 
-- **Binaural Beats**: Farklı Hz frekanslarında özel tasarlanmış sesler
-- **Solfeggio Frekansları**: 432Hz, 528Hz, 741Hz, 852Hz gibi şifa frekansları
+- **Solfeggio Frekansları**: 174Hz, 285Hz, 396Hz, 417Hz, 528Hz, 639Hz, 741Hz, 852Hz, 963Hz şifa frekansları
 - **Özelleştirilebilir Seanslar**: Süre ve frekans seçimi
 - **Yüksek Kalite Audio**: MP3, WAV formatlarında kristal netlikte ses
+- **Bilimsel Temelli**: Araştırmalara dayalı frekans terapisi
 
 ### 📊 Sağlık Takibi
 
@@ -49,40 +49,43 @@
 - **Kişiselleştirilmiş Öneriler**: AI destekli sağlık tavsiyeleri
 - **PDF Raporlar**: Detaylı sağlık analiz raporları
 
-### 🤖 Akıllı Chatbot
+### 🤖 Yapay Zeka Chatbot
 
-- **7/24 Destek**: Sağlık ve frekans konularında anında yardım
-- **Kişisel Öneriler**: Kullanıcının verilerine göre özel tavsiyeler
-- **Eğitici İçerik**: Binaural beats ve sağlık hakkında bilgiler
+- **7/24 AI Destek**: Yapay zeka ile sağlık ve frekans konularında anında yardım
+- **Akıllı Öneriler**: Kullanıcının verilerine göre AI destekli özel tavsiyeler
+- **Eğitici İçerik**: Solfeggio frekansları ve sağlık hakkında bilgiler
+- **Doğal Dil İşleme**: İnsan benzeri etkileşim deneyimi
 
 ### 📱 Modern Arayüz
 
-- **Responsive Design**: Mobil, tablet ve masaüstü uyumlu
+- **Responsive Web**: Mobil, tablet ve masaüstü uyumlu web arayüzü
+- **Android Uygulaması**: Kotlin ile geliştirilmiş native Android app
 - **Koyu/Açık Tema**: Göz dostu tema seçenekleri
 - **Kullanıcı Dostu**: Sezgisel ve kolay kullanım
-- **PWA Desteği**: Progressive Web App özellikleri
+- **Modern UI/UX**: Çağdaş tasarım anlayışı
 
 ## 🛠 Teknoloji Stack
 
 ### Backend
 
 - **Framework**: Django 4.2 + Django REST Framework
-- **Veritabanı**: SQLite (geliştirme), PostgreSQL (prodüksiyon hazır)
+- **Veritabanı**: Supabase PostgreSQL
 - **Kimlik Doğrulama**: JWT (Simple JWT)
 - **API**: Kapsamlı dokümantasyonlu RESTful API
-- **Dosya Depolama**: Django media dosyaları + bulut depolama hazır
-- **Önbellekleme**: Redis desteği
+- **Dosya Depolama**: Supabase Storage
+- **Gerçek Zamanlı**: Supabase Realtime
 - **Güvenlik**: CORS, throttling, rate limiting
 
 ### Frontend
 
-- **Framework**: Next.js 14 (App Router)
-- **Dil**: TypeScript
+- **Web Framework**: Next.js 14 (App Router)
+- **Mobile**: Kotlin (Android Native)
+- **Dil**: TypeScript, Kotlin
 - **Stil**: Tailwind CSS
 - **State Yönetimi**: React Context + Hooks
-- **HTTP İstemcisi**: Fetch API
-- **UI Bileşenleri**: Özel bileşenler + Headless UI
-- **Audio Player**: Özel HTML5 audio uygulaması
+- **HTTP İstemcisi**: Fetch API, Retrofit (Android)
+- **UI Bileşenleri**: Özel bileşenler + Material Design (Android)
+- **Audio Player**: Özel HTML5 audio + MediaPlayer (Android)
 
 ## 🚀 Kurulum
 
@@ -90,6 +93,8 @@
 
 - Python 3.11+
 - Node.js 18+
+- Android Studio (Android uygulama geliştirme için)
+- Supabase hesabı
 - npm veya yarn
 - Git
 
@@ -152,8 +157,10 @@ yarn dev
 ### 4. Erişim URL'leri
 
 - **Frontend**: http://localhost:3000
+- **Android App**: Google Play Store'da mevcut
 - **Backend API**: http://localhost:8000
 - **Admin Panel**: http://localhost:8000/admin
+- **Supabase Dashboard**: https://app.supabase.com
 
 ## 📚 API Dokümantasyonu
 
@@ -213,24 +220,6 @@ _Frekans player ekran görüntüsü buraya gelecek_
 
 _Sağlık raporları ekran görüntüsü buraya gelecek_
 
-## 🧪 Test Etme
-
-### Backend Testleri
-
-```bash
-cd backend
-python manage.py test
-```
-
-### Frontend Testleri
-
-```bash
-cd frontend
-npm run test
-# veya
-yarn test
-```
-
 ## 🔧 Geliştirme Ortamı
 
 ### Backend Geliştirme
@@ -243,30 +232,23 @@ yarn test
 ### Frontend Geliştirme
 
 - `frontend/app/`: Next.js app router
+- `android/`: Kotlin Android uygulaması
 - `frontend/components/`: Yeniden kullanılabilir bileşenler
 - `frontend/lib/`: Utility fonksiyonları
 - `frontend/styles/`: Global stiller
 
-### Veritabanı Yapısı
+### Veritabanı Yapısı (Supabase PostgreSQL)
 
 ```
-User (Django Auth)
+User (Supabase Auth)
 ├── DailyLog (günlük sağlık kayıtları)
 ├── Session (dinleme seansları)
-├── ChatbotLog (chatbot konuşmaları)
+├── ChatbotLog (AI chatbot konuşmaları)
 └── PDFReport (sağlık raporları)
 
-Frequency (ses dosyaları)
+Frequency (solfeggio frekans dosyaları)
 └── Session (many-to-one ilişki)
 ```
-
-## 📊 Proje İstatistikleri
-
-- **Toplam Endpoint**: 25+
-- **Model Sayısı**: 6
-- **Frontend Sayfa**: 10+
-- **API Yanıt Süresi**: <200ms
-- **Test Kapsamı**: %85+
 
 ## 🔒 Güvenlik
 
@@ -279,17 +261,16 @@ Frequency (ses dosyaları)
 
 ## 📈 Gelecek Planları
 
-- [ ] Mobil uygulama (React Native)
+- [ ] iOS versiyonu (Swift)
 - [ ] Gerçek zamanlı bildirimler
 - [ ] Sosyal özellikler (kullanıcı etkileşimi)
-- [ ] Gelişmiş analizler (ML tahminleri)
+- [ ] Gelişmiş AI analizleri (ML tahminleri)
 - [ ] Giyilebilir cihaz entegrasyonu
 - [ ] Çoklu dil desteği
 - [ ] Offline mod desteği
 
 ## 🐛 Bilinen Sorunlar
 
-- Audio player bazı eski tarayıcılarda sorun yaşayabilir
 - Büyük dosya yükleme için progress bar eklenmeli
 - Gerçek zamanlı özellikler için WebSocket entegrasyonu gerekli
 
@@ -299,20 +280,19 @@ Herhangi bir sorun yaşadığınızda:
 
 1. GitHub Issues bölümünde mevcut sorunları kontrol edin
 2. Yeni issue oluşturun
-3. Chatbot üzerinden 7/24 destek alın
 
-## 👥 Ekip
+## 👥 Yaratıcısı
 
-- **Full Stack Developer**: Çağrı
-- **UI/UX Designer**: [Tasarımcı Adı]
-- **Audio Engineer**: [Mühendis Adı]
+- **Full Stack Developer & UI/UX Designer**: Çağrı Özay
+- **Teknolojiler**: Django, Next.js, Kotlin, Supabase, AI/ML
 
 ## 🙏 Teşekkürler
 
 - Django ve Next.js topluluklarına
-- Binaural beats araştırmacılarına
+- Supabase ekibine
+- Kotlin/Android geliştirici topluluğuna
+- Solfeggio frekansları araştırmacılarına (https://ouraring.com/blog/the-benefits-of-the-9-solfeggio-frequencies/?srsltid=AfmBOortJDCGle_fnSfLhzDo3MqrErqpoMpKncKzWGVZewbaFqL_Z-Ze, https://livetobloom.com/solfeggio-frekanslari-psikolojide-ses-titresimleri/, https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/solfeggio-frequencies.htm)
 - Açık kaynak kütüphane geliştiricilerine
-- Beta test kullanıcılarımıza
 
 ## 📝 Lisans
 
@@ -322,9 +302,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyas
 
 <div align="center">
   <p>🌊 HealthWave ile sağlıklı bir yaşam için bilinçli adımlar atın! 🌊</p>
-  <p>
-    <a href="https://healthwave.com">Website</a> •
-    <a href="mailto:support@healthwave.com">İletişim</a> •
-    <a href="https://twitter.com/healthwave">Twitter</a>
-  </p>
 </div>
