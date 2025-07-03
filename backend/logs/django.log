@@ -1,0 +1,1530 @@
+INFO 2025-07-03 01:46:28,571 autoreload 31208 1516 Watching for file changes with StatReloader
+INFO 2025-07-03 01:46:48,132 autoreload 1740 30188 Watching for file changes with StatReloader
+INFO 2025-07-03 01:46:50,481 basehttp 1740 29676 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-03 01:46:50,505 basehttp 1740 29676 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4175
+INFO 2025-07-03 01:46:50,545 basehttp 1740 29676 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:50,547 basehttp 1740 29676 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:50,547 basehttp 1740 31880 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:50,551 basehttp 1740 31584 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:50,551 basehttp 1740 26952 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:50,551 basehttp 1740 4684 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:50,582 basehttp 1740 26952 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:52,550 basehttp 1740 26952 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-03 01:46:52,761 basehttp 1740 26952 "GET /admin/ HTTP/1.1" 200 9549
+INFO 2025-07-03 01:46:52,802 basehttp 1740 26952 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:52,819 basehttp 1740 26952 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:52,819 basehttp 1740 4684 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,608 basehttp 1740 4684 "GET /admin/api/chatbotlog/ HTTP/1.1" 200 12655
+INFO 2025-07-03 01:46:54,656 basehttp 1740 4684 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,661 basehttp 1740 31584 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,661 basehttp 1740 26952 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,661 basehttp 1740 29676 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,662 basehttp 1740 22912 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,662 basehttp 1740 31880 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,663 basehttp 1740 31584 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,664 basehttp 1740 29676 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,664 basehttp 1740 26952 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,667 basehttp 1740 26952 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,682 basehttp 1740 26952 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,780 basehttp 1740 4684 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:46:54,793 basehttp 1740 4684 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:54,793 basehttp 1740 26952 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-07-03 01:46:56,584 basehttp 1740 26952 "GET /admin/api/session/ HTTP/1.1" 200 12373
+INFO 2025-07-03 01:46:56,739 basehttp 1740 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:46:57,530 basehttp 1740 26952 "GET /admin/api/frequency/ HTTP/1.1" 200 11351
+INFO 2025-07-03 01:46:57,696 basehttp 1740 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:46:58,636 basehttp 1740 26952 "GET /admin/api/dailylog/ HTTP/1.1" 200 11833
+INFO 2025-07-03 01:46:58,794 basehttp 1740 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:46:59,520 basehttp 1740 26952 "GET /admin/api/pdfreport/ HTTP/1.1" 200 11829
+INFO 2025-07-03 01:46:59,678 basehttp 1740 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:47:00,387 basehttp 1740 26952 "GET /admin/auth/group/ HTTP/1.1" 200 10320
+INFO 2025-07-03 01:47:00,544 basehttp 1740 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:47:01,496 basehttp 1740 26952 "GET /admin/auth/user/ HTTP/1.1" 200 13885
+INFO 2025-07-03 01:47:01,551 basehttp 1740 4684 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-07-03 01:47:01,671 basehttp 1740 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 01:47:01,683 basehttp 1740 26952 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-07-03 02:05:37,658 autoreload 31812 31300 Watching for file changes with StatReloader
+INFO 2025-07-03 02:05:39,372 basehttp 31812 24216 "GET /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2025-07-03 02:05:39,393 basehttp 31812 24216 "GET /admin/login/?next=/admin/auth/user/ HTTP/1.1" 200 4195
+INFO 2025-07-03 02:05:41,328 basehttp 31812 24216 "POST /admin/login/?next=/admin/auth/user/ HTTP/1.1" 302 0
+INFO 2025-07-03 02:05:41,708 basehttp 31812 24216 "GET /admin/auth/user/ HTTP/1.1" 200 14374
+INFO 2025-07-03 02:05:41,802 basehttp 31812 21136 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2025-07-03 02:05:41,880 basehttp 31812 24216 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:05:45,931 basehttp 31812 24216 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 25535
+INFO 2025-07-03 02:05:45,972 basehttp 31812 24216 "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+INFO 2025-07-03 02:05:45,973 basehttp 31812 31560 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-07-03 02:05:45,973 basehttp 31812 13240 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-07-03 02:05:45,974 basehttp 31812 32484 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2025-07-03 02:05:45,974 basehttp 31812 11680 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+INFO 2025-07-03 02:05:45,985 basehttp 31812 11680 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-07-03 02:05:45,991 basehttp 31812 11680 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+INFO 2025-07-03 02:05:45,999 basehttp 31812 11680 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-07-03 02:05:46,447 basehttp 31812 21136 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:05:46,489 basehttp 31812 32484 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-07-03 02:05:46,489 basehttp 31812 11680 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-07-03 02:05:46,489 basehttp 31812 21136 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2025-07-03 02:05:48,423 basehttp 31812 11680 "GET /admin/auth/user/ HTTP/1.1" 200 14374
+INFO 2025-07-03 02:05:50,261 basehttp 31812 11680 "GET /admin/auth/user/1/change/ HTTP/1.1" 200 25573
+INFO 2025-07-03 02:05:50,421 basehttp 31812 11680 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:05:51,888 basehttp 31812 11680 "GET /admin/auth/user/ HTTP/1.1" 200 14374
+INFO 2025-07-03 02:08:56,887 autoreload 31172 29124 Watching for file changes with StatReloader
+INFO 2025-07-03 02:09:09,334 basehttp 31172 30464 "GET /admin/auth/user/ HTTP/1.1" 200 38249
+INFO 2025-07-03 02:09:09,542 basehttp 31172 30464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:09:33,664 basehttp 31172 30464 "GET /admin/api/frequency/ HTTP/1.1" 200 18748
+INFO 2025-07-03 02:09:33,823 basehttp 31172 30464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:09:35,581 basehttp 31172 30464 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19345
+INFO 2025-07-03 02:09:35,743 basehttp 31172 30464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:24:44,108 basehttp 31172 31972 "GET /admin/api/frequency/ HTTP/1.1" 200 18748
+INFO 2025-07-03 02:24:44,452 basehttp 31172 31972 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:27:32,300 basehttp 31172 31972 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19345
+INFO 2025-07-03 02:27:32,485 basehttp 31172 31972 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:28:10,752 basehttp 31172 31972 "POST /admin/api/frequency/6/change/ HTTP/1.1" 302 0
+INFO 2025-07-03 02:28:11,197 basehttp 31172 31972 "GET /admin/api/frequency/ HTTP/1.1" 200 18991
+INFO 2025-07-03 02:28:11,368 basehttp 31172 31972 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:28:22,394 basehttp 31172 31972 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19793
+INFO 2025-07-03 02:28:22,563 basehttp 31172 31972 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2025-07-03 02:28:23,855 log 31172 31972 Not Found: /media/frequencies/La - Kendine D\xf6n\xfc\u015f_852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3
+WARNING 2025-07-03 02:28:23,856 basehttp 31172 31972 "GET /media/frequencies/La%20-%20Kendine%20D%C3%B6n%C3%BC%C5%9F_852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 404 3004
+INFO 2025-07-03 02:30:36,398 autoreload 31172 29124 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\models.py changed, reloading.
+INFO 2025-07-03 02:30:37,008 autoreload 2200 25260 Watching for file changes with StatReloader
+INFO 2025-07-03 02:30:47,605 autoreload 2200 25260 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\models.py changed, reloading.
+INFO 2025-07-03 02:30:48,168 autoreload 32656 16360 Watching for file changes with StatReloader
+INFO 2025-07-03 02:38:51,844 autoreload 4092 31056 Watching for file changes with StatReloader
+ERROR 2025-07-03 02:38:53,539 log 4092 9500 Internal Server Error: /admin/api/frequency/6/change/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 840, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (audio_file) specified for Frequency
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1987, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1840, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1878, in _changeform_view
+    ModelForm = self.get_form(
+        request, obj, change=not add, fields=flatten_fieldsets(fieldsets)
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 842, in get_form
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Unknown field(s) (audio_file) specified for Frequency. Check fields/fieldsets/exclude attributes of class FrequencyAdmin.
+ERROR 2025-07-03 02:38:53,543 basehttp 4092 9500 "GET /admin/api/frequency/6/change/ HTTP/1.1" 500 154520
+INFO 2025-07-03 02:38:58,896 basehttp 4092 9500 "GET /admin/api/frequency HTTP/1.1" 301 0
+INFO 2025-07-03 02:38:59,385 basehttp 4092 9500 "GET /admin/api/frequency/ HTTP/1.1" 200 18748
+INFO 2025-07-03 02:38:59,419 basehttp 4092 9500 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,427 basehttp 4092 27736 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,427 basehttp 4092 9500 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,427 basehttp 4092 31844 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,430 basehttp 4092 25808 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,430 basehttp 4092 9500 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,431 basehttp 4092 27736 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,431 basehttp 4092 26128 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,432 basehttp 4092 31844 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,432 basehttp 4092 25808 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,432 basehttp 4092 9500 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,433 basehttp 4092 27736 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,433 basehttp 4092 26128 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,433 basehttp 4092 31844 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,451 basehttp 4092 26128 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,451 basehttp 4092 31844 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,473 basehttp 4092 31844 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,478 basehttp 4092 31844 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,961 basehttp 4092 28700 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:38:59,988 basehttp 4092 28700 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,988 basehttp 4092 31844 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-03 02:38:59,988 basehttp 4092 26128 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-07-03 02:39:00,018 basehttp 4092 26128 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+ERROR 2025-07-03 02:39:01,875 log 4092 26128 Internal Server Error: /admin/api/frequency/6/change/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 840, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (audio_file) specified for Frequency
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1987, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1840, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1878, in _changeform_view
+    ModelForm = self.get_form(
+        request, obj, change=not add, fields=flatten_fieldsets(fieldsets)
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 842, in get_form
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Unknown field(s) (audio_file) specified for Frequency. Check fields/fieldsets/exclude attributes of class FrequencyAdmin.
+ERROR 2025-07-03 02:39:01,878 basehttp 4092 26128 "GET /admin/api/frequency/6/change/ HTTP/1.1" 500 154384
+INFO 2025-07-03 02:39:47,040 autoreload 4092 31056 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 02:39:47,558 autoreload 17372 13148 Watching for file changes with StatReloader
+INFO 2025-07-03 02:40:09,511 autoreload 17372 13148 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 02:40:10,081 autoreload 27512 26452 Watching for file changes with StatReloader
+INFO 2025-07-03 02:40:12,717 basehttp 27512 27976 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19354
+INFO 2025-07-03 02:40:12,881 basehttp 27512 27976 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:40:16,435 basehttp 27512 27976 "POST /admin/api/frequency/6/change/ HTTP/1.1" 200 19908
+INFO 2025-07-03 02:40:16,594 basehttp 27512 27976 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:40:28,243 basehttp 27512 27976 "POST /admin/api/frequency/6/change/ HTTP/1.1" 302 0
+INFO 2025-07-03 02:40:28,721 basehttp 27512 27976 "GET /admin/api/frequency/ HTTP/1.1" 200 18991
+INFO 2025-07-03 02:40:28,883 basehttp 27512 27976 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:43:06,538 basehttp 27512 27976 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19670
+INFO 2025-07-03 02:43:06,711 basehttp 27512 27976 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 02:43:10,929 basehttp 27512 27976 "POST /admin/api/frequency/6/change/ HTTP/1.1" 302 0
+INFO 2025-07-03 02:43:11,389 basehttp 27512 27976 "GET /admin/api/frequency/ HTTP/1.1" 200 18991
+INFO 2025-07-03 02:43:11,560 basehttp 27512 27976 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 03:50:08,816 autoreload 27512 26452 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\urls.py changed, reloading.
+INFO 2025-07-03 03:50:09,359 autoreload 28276 22372 Watching for file changes with StatReloader
+INFO 2025-07-03 03:51:04,486 autoreload 28276 22372 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\urls.py changed, reloading.
+INFO 2025-07-03 03:51:04,968 autoreload 32692 4348 Watching for file changes with StatReloader
+INFO 2025-07-03 03:51:15,396 autoreload 32692 4348 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 03:51:15,971 autoreload 11272 6808 Watching for file changes with StatReloader
+INFO 2025-07-03 03:51:30,491 autoreload 11272 6808 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 03:51:30,936 autoreload 8348 26960 Watching for file changes with StatReloader
+INFO 2025-07-03 03:51:42,394 autoreload 8348 26960 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 03:51:42,870 autoreload 26608 12128 Watching for file changes with StatReloader
+INFO 2025-07-03 03:51:51,254 autoreload 26608 12128 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\urls.py changed, reloading.
+INFO 2025-07-03 03:51:51,724 autoreload 5336 30140 Watching for file changes with StatReloader
+INFO 2025-07-03 03:52:03,761 autoreload 27640 24280 Watching for file changes with StatReloader
+INFO 2025-07-03 03:54:22,102 autoreload 27640 24280 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\urls.py changed, reloading.
+INFO 2025-07-03 03:54:22,579 autoreload 644 20956 Watching for file changes with StatReloader
+INFO 2025-07-03 03:55:28,954 autoreload 644 20956 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 03:55:29,489 autoreload 29424 29288 Watching for file changes with StatReloader
+INFO 2025-07-03 03:55:44,250 autoreload 29424 29288 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\urls.py changed, reloading.
+INFO 2025-07-03 03:55:44,779 autoreload 10500 28060 Watching for file changes with StatReloader
+INFO 2025-07-03 03:56:49,934 autoreload 10500 28060 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 03:56:50,482 autoreload 13004 29032 Watching for file changes with StatReloader
+INFO 2025-07-03 03:58:53,873 autoreload 13004 29032 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\models.py changed, reloading.
+INFO 2025-07-03 03:58:54,349 autoreload 16360 10040 Watching for file changes with StatReloader
+INFO 2025-07-03 03:59:12,729 autoreload 16360 10040 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\models.py changed, reloading.
+INFO 2025-07-03 03:59:13,300 autoreload 420 28464 Watching for file changes with StatReloader
+INFO 2025-07-03 03:59:22,936 autoreload 420 28464 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 03:59:23,509 autoreload 300 2976 Watching for file changes with StatReloader
+INFO 2025-07-03 03:59:46,635 autoreload 300 2976 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 03:59:47,114 autoreload 9600 20028 Watching for file changes with StatReloader
+INFO 2025-07-03 04:04:12,390 autoreload 29224 9788 Watching for file changes with StatReloader
+INFO 2025-07-03 04:05:58,094 autoreload 29224 9788 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:05:58,625 autoreload 19136 27288 Watching for file changes with StatReloader
+INFO 2025-07-03 04:06:19,775 basehttp 19136 27332 "GET /admin/ HTTP/1.1" 200 10758
+INFO 2025-07-03 04:06:19,816 basehttp 19136 27332 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,819 basehttp 19136 6468 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,820 basehttp 19136 27332 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,820 basehttp 19136 13960 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,821 basehttp 19136 18612 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,846 basehttp 19136 18612 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,852 basehttp 19136 18612 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:19,859 basehttp 19136 32148 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-07-03 04:06:19,886 basehttp 19136 13960 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-07-03 04:06:22,580 basehttp 19136 13960 "GET /admin/api/frequency/ HTTP/1.1" 200 18748
+INFO 2025-07-03 04:06:22,624 basehttp 19136 13960 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,628 basehttp 19136 18612 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,629 basehttp 19136 13960 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,629 basehttp 19136 6468 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,630 basehttp 19136 27332 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,631 basehttp 19136 14012 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,631 basehttp 19136 18612 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,631 basehttp 19136 13960 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,632 basehttp 19136 6468 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,643 basehttp 19136 6468 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,643 basehttp 19136 13960 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:22,661 basehttp 19136 6468 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:23,153 basehttp 19136 32148 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 04:06:23,176 basehttp 19136 32148 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:23,176 basehttp 19136 13960 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:23,177 basehttp 19136 6468 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:24,812 basehttp 19136 6468 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 20645
+INFO 2025-07-03 04:06:24,849 basehttp 19136 32148 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:24,849 basehttp 19136 6468 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:24,863 basehttp 19136 6468 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:24,863 basehttp 19136 32148 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-07-03 04:06:24,982 basehttp 19136 13960 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 04:06:31,919 basehttp 19136 13960 "POST /admin/api/frequency/6/change/ HTTP/1.1" 302 0
+INFO 2025-07-03 04:06:32,387 basehttp 19136 13960 "GET /admin/api/frequency/ HTTP/1.1" 200 18991
+INFO 2025-07-03 04:06:32,551 basehttp 19136 13960 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 04:06:35,658 autoreload 19136 27288 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\urls.py changed, reloading.
+INFO 2025-07-03 04:06:36,115 autoreload 11352 31300 Watching for file changes with StatReloader
+INFO 2025-07-03 04:06:41,549 basehttp 11352 5568 "GET /admin/?id=f43a33a3-f448-43c3-ad03-e729d0fc043d&vscodeBrowserReqId=1751504801532 HTTP/1.1" 302 0
+INFO 2025-07-03 04:06:41,569 basehttp 11352 5568 "GET /admin/login/?next=/admin/%3Fid%3Df43a33a3-f448-43c3-ad03-e729d0fc043d%26vscodeBrowserReqId%3D1751504801532 HTTP/1.1" 200 4333
+INFO 2025-07-03 04:07:31,512 autoreload 7100 20672 Watching for file changes with StatReloader
+INFO 2025-07-03 04:07:34,236 autoreload 7100 20672 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:07:34,718 autoreload 32748 30644 Watching for file changes with StatReloader
+INFO 2025-07-03 04:10:30,557 autoreload 20620 27976 Watching for file changes with StatReloader
+INFO 2025-07-03 04:10:38,359 autoreload 4804 21528 Watching for file changes with StatReloader
+INFO 2025-07-03 04:10:42,658 basehttp 4804 29328 "GET /admin/api/frequency/ HTTP/1.1" 200 18748
+INFO 2025-07-03 04:10:42,826 basehttp 4804 29328 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2025-07-03 04:10:44,458 log 4804 29328 Internal Server Error: /admin/api/frequency/6/change/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 840, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (audio_url) specified for Frequency
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1987, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1840, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 1878, in _changeform_view
+    ModelForm = self.get_form(
+        request, obj, change=not add, fields=flatten_fieldsets(fieldsets)
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\contrib\admin\options.py", line 842, in get_form
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Unknown field(s) (audio_url) specified for Frequency. Check fields/fieldsets/exclude attributes of class FrequencyAdmin.
+ERROR 2025-07-03 04:10:44,462 basehttp 4804 29328 "GET /admin/api/frequency/6/change/ HTTP/1.1" 500 156040
+INFO 2025-07-03 04:11:02,929 autoreload 4804 21528 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 04:11:03,435 autoreload 23428 11184 Watching for file changes with StatReloader
+INFO 2025-07-03 04:11:45,203 autoreload 23428 11184 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 04:11:45,741 autoreload 6808 11560 Watching for file changes with StatReloader
+INFO 2025-07-03 04:12:21,591 autoreload 6808 11560 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 04:12:22,110 autoreload 28564 18292 Watching for file changes with StatReloader
+INFO 2025-07-03 04:12:23,753 autoreload 28564 18292 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\admin.py changed, reloading.
+INFO 2025-07-03 04:12:24,345 autoreload 24384 30508 Watching for file changes with StatReloader
+INFO 2025-07-03 04:12:26,098 basehttp 24384 25516 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19823
+INFO 2025-07-03 04:12:26,275 basehttp 24384 25516 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 04:12:31,869 basehttp 24384 25516 - Broken pipe from ('127.0.0.1', 62252)
+INFO 2025-07-03 04:12:31,919 basehttp 24384 24776 "GET /media/frequencies/852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 200 3765734
+INFO 2025-07-03 04:14:04,225 basehttp 24384 30296 "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:05,451 views 24384 30296 Successful login: admin
+INFO 2025-07-03 04:14:05,452 basehttp 24384 30296 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 04:14:07,666 basehttp 24384 30296 "OPTIONS /api/dashboard-stats/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:07,670 basehttp 24384 30172 "OPTIONS /api/profile/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:07,670 basehttp 24384 18360 "OPTIONS /api/recent-activities/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:07,670 basehttp 24384 28020 "OPTIONS /api/profile/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:07,671 basehttp 24384 28880 "OPTIONS /api/dashboard-stats/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:07,672 basehttp 24384 23984 "OPTIONS /api/recent-activities/ HTTP/1.1" 200 0
+WARNING 2025-07-03 04:14:07,701 log 24384 28020 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:14:07,701 basehttp 24384 28020 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+WARNING 2025-07-03 04:14:07,707 log 24384 18360 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:14:07,708 basehttp 24384 18360 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:14:08,146 basehttp 24384 28880 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:14:08,516 basehttp 24384 23984 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:14:08,595 basehttp 24384 18360 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:14:08,948 basehttp 24384 28880 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:14:34,077 basehttp 24384 18360 "OPTIONS /api/frequencies/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:34,078 basehttp 24384 23984 "OPTIONS /api/sessions/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:34,078 basehttp 24384 28880 "OPTIONS /api/sessions/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:34,078 basehttp 24384 28020 "OPTIONS /api/frequencies/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:14:34,241 basehttp 24384 23984 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:14:34,432 basehttp 24384 18360 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:14:34,604 basehttp 24384 28020 "GET /api/sessions/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:14:34,726 basehttp 24384 18360 "GET /api/sessions/ HTTP/1.1" 200 52
+WARNING 2025-07-03 04:14:39,746 log 24384 23984 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:14:39,747 basehttp 24384 23984 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+WARNING 2025-07-03 04:14:39,752 log 24384 28880 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:14:39,752 basehttp 24384 28880 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:14:39,805 basehttp 24384 28020 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:14:39,871 basehttp 24384 28880 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:14:40,169 basehttp 24384 18360 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:14:40,597 basehttp 24384 28880 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+WARNING 2025-07-03 04:15:25,145 log 24384 28020 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:15:25,145 basehttp 24384 28020 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:15:25,205 basehttp 24384 18360 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:15:25,572 basehttp 24384 28880 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+WARNING 2025-07-03 04:17:08,645 log 24384 28020 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:17:08,646 basehttp 24384 28020 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:17:08,707 basehttp 24384 18360 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:17:09,067 basehttp 24384 28880 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+WARNING 2025-07-03 04:18:03,990 log 24384 28020 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:18:03,990 basehttp 24384 28020 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:18:04,052 basehttp 24384 18360 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:18:04,414 basehttp 24384 28880 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:18:07,630 views 24384 28880 Successful login: admin
+INFO 2025-07-03 04:18:07,631 basehttp 24384 28880 "POST /api/login/ HTTP/1.1" 200 825
+WARNING 2025-07-03 04:18:09,242 log 24384 28020 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:18:09,242 basehttp 24384 28020 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+WARNING 2025-07-03 04:18:09,247 log 24384 23984 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:18:09,248 basehttp 24384 23984 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:18:09,305 basehttp 24384 18360 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:18:09,372 basehttp 24384 23984 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:18:09,666 basehttp 24384 28880 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:18:10,091 basehttp 24384 23984 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:18:18,124 autoreload 17136 6924 Watching for file changes with StatReloader
+INFO 2025-07-03 04:18:30,411 views 17136 17744 Successful login: admin
+INFO 2025-07-03 04:18:30,412 basehttp 17136 17744 "POST /api/login/ HTTP/1.1" 200 825
+WARNING 2025-07-03 04:18:32,632 log 17136 28868 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:18:32,633 basehttp 17136 28868 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+WARNING 2025-07-03 04:18:32,640 log 17136 13440 Not Found: /api/recent-activities/
+WARNING 2025-07-03 04:18:32,641 basehttp 17136 13440 "GET /api/recent-activities/ HTTP/1.1" 404 9101
+INFO 2025-07-03 04:18:33,075 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:18:33,081 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:18:33,147 basehttp 17136 17744 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:18:33,898 basehttp 17136 13440 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:20:05,412 basehttp 17136 17744 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:20:05,804 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:20:05,812 basehttp 17136 13440 - Broken pipe from ('127.0.0.1', 62527)
+INFO 2025-07-03 04:20:06,175 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:20:30,603 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:20:31,077 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:20:38,387 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:20:38,773 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:11,290 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:21:11,679 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:16,143 basehttp 17136 23156 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:21:16,148 basehttp 17136 17744 "GET /api/sessions/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:21:16,288 basehttp 17136 23156 "GET /api/sessions/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:21:16,996 basehttp 17136 28868 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:21:24,897 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:21:24,968 basehttp 17136 17744 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:21:25,265 basehttp 17136 28868 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:25,708 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:38,756 basehttp 17136 28868 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:21:39,135 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:42,802 views 17136 17744 Successful login: admin
+INFO 2025-07-03 04:21:42,802 basehttp 17136 17744 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 04:21:44,466 basehttp 17136 28868 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:21:44,543 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:21:44,901 basehttp 17136 17744 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:45,373 basehttp 17136 23156 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:21:49,265 basehttp 17136 23156 "OPTIONS /api/surveys/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:21:49,266 basehttp 17136 17744 "OPTIONS /api/surveys/ HTTP/1.1" 200 0
+WARNING 2025-07-03 04:21:49,288 log 17136 17744 Not Found: /api/surveys/
+WARNING 2025-07-03 04:21:49,288 basehttp 17136 17744 "GET /api/surveys/ HTTP/1.1" 404 9071
+WARNING 2025-07-03 04:21:49,294 log 17136 23156 Not Found: /api/surveys/
+WARNING 2025-07-03 04:21:49,294 basehttp 17136 23156 "GET /api/surveys/ HTTP/1.1" 404 9071
+INFO 2025-07-03 04:23:44,959 basehttp 17136 23156 "OPTIONS /api/dailylogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:23:45,095 basehttp 17136 23156 "GET /api/dailylogs/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:24:14,310 basehttp 17136 17744 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:24:14,384 basehttp 17136 28868 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:24:14,679 basehttp 17136 23156 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:24:15,107 basehttp 17136 28868 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:24:41,015 basehttp 17136 28868 "GET /api/sessions/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:24:41,093 basehttp 17136 23156 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:24:41,149 basehttp 17136 17744 "GET /api/sessions/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:24:41,278 basehttp 17136 28868 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:24:44,534 basehttp 17136 17744 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:24:44,603 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:24:44,892 basehttp 17136 28868 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+INFO 2025-07-03 04:24:45,331 basehttp 17136 23156 "GET /api/dashboard-stats/ HTTP/1.1" 200 222
+WARNING 2025-07-03 04:25:00,747 log 17136 16468 Unauthorized: /api/sessions/
+WARNING 2025-07-03 04:25:00,747 basehttp 17136 16468 "GET /api/sessions/ HTTP/1.1" 401 172
+INFO 2025-07-03 04:25:12,685 views 17136 16468 Successful login: admin
+INFO 2025-07-03 04:25:12,686 basehttp 17136 16468 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 04:25:22,658 basehttp 17136 16468 "GET /api/sessions/ HTTP/1.1" 200 52
+WARNING 2025-07-03 04:25:35,849 log 17136 16468 Bad Request: /api/sessions/
+WARNING 2025-07-03 04:25:35,849 basehttp 17136 16468 "POST /api/sessions/ HTTP/1.1" 400 48
+INFO 2025-07-03 04:28:29,215 views 17136 24252 Session created by user admin: 2
+INFO 2025-07-03 04:28:29,216 basehttp 17136 24252 "POST /api/sessions/ HTTP/1.1" 201 301
+INFO 2025-07-03 04:28:36,816 basehttp 17136 28868 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:28:37,251 basehttp 17136 23156 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:28:37,381 basehttp 17136 17744 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:28:37,497 basehttp 17136 28868 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:28:41,659 basehttp 17136 17744 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:28:41,725 basehttp 17136 23156 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:28:42,087 basehttp 17136 28868 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:28:42,574 basehttp 17136 23156 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:30:22,493 basehttp 17136 23156 "GET /api/dailylogs/ HTTP/1.1" 200 52
+WARNING 2025-07-03 04:30:45,148 log 17136 27504 Unauthorized: /api/dailylogs/
+WARNING 2025-07-03 04:30:45,149 basehttp 17136 27504 "POST /api/dailylogs/ HTTP/1.1" 401 172
+INFO 2025-07-03 04:30:59,497 views 17136 27504 DailyLog created by user admin: 5
+INFO 2025-07-03 04:30:59,498 basehttp 17136 27504 "POST /api/dailylogs/ HTTP/1.1" 201 278
+INFO 2025-07-03 04:31:17,882 basehttp 17136 23156 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:31:52,556 basehttp 17136 19556 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:32:52,830 basehttp 17136 19556 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:35:26,085 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:35:26,270 basehttp 17136 10756 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:35:26,333 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:35:26,983 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:35:28,779 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:35:28,860 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:35:28,978 basehttp 17136 10756 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:35:29,106 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:36:34,216 basehttp 17136 10756 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:36:34,284 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:36:34,641 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:36:35,140 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:36:35,976 basehttp 17136 21244 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:36:36,165 basehttp 17136 19556 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:36:39,046 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:36:39,114 basehttp 17136 10756 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:36:39,463 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:36:39,968 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:36:56,501 basehttp 17136 19556 "OPTIONS /api/chatbotlogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:36:56,501 basehttp 17136 10756 "OPTIONS /api/chatbotlogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:36:56,658 basehttp 17136 10756 "GET /api/chatbotlogs/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:36:56,788 basehttp 17136 19556 "GET /api/chatbotlogs/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:37:00,100 basehttp 17136 10756 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:00,178 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:00,550 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:01,066 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:01,894 basehttp 17136 21244 "OPTIONS /api/pdfreports/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:37:01,895 basehttp 17136 19556 "OPTIONS /api/pdfreports/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:37:02,042 basehttp 17136 19556 "GET /api/pdfreports/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:37:02,167 basehttp 17136 21244 "GET /api/pdfreports/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:37:06,792 basehttp 17136 21244 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:37:06,851 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:37:07,111 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:07,245 views 17136 10756 PDF Report created by user admin: 1
+INFO 2025-07-03 04:37:07,246 basehttp 17136 10756 "POST /api/pdfreports/ HTTP/1.1" 201 300
+INFO 2025-07-03 04:37:07,439 basehttp 17136 10756 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 04:37:15,927 basehttp 17136 10756 "GET /api/chatbotlogs/ HTTP/1.1" 200 52
+INFO 2025-07-03 04:37:17,529 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:17,599 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:17,971 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:18,474 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:19,305 basehttp 17136 10756 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:37:19,363 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:37:19,499 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:37:19,617 basehttp 17136 10756 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:37:21,080 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:21,159 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:21,516 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:22,014 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:22,504 basehttp 17136 21244 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 04:37:22,703 basehttp 17136 10756 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 04:37:24,334 basehttp 17136 10756 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 04:37:29,395 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:37:29,456 basehttp 17136 10756 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:37:39,613 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:39,685 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:40,058 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:40,546 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:41,204 basehttp 17136 19556 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:37:41,400 basehttp 17136 10756 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:37:56,032 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:56,111 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:37:56,463 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:37:56,957 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:38:40,242 basehttp 17136 10756 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:38:40,300 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:38:40,435 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:38:40,551 basehttp 17136 10756 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:38:42,729 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:38:42,794 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:38:43,159 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:38:43,655 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:39:01,185 basehttp 17136 21244 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:39:01,382 basehttp 17136 10756 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 04:39:23,448 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:39:23,515 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:39:23,879 basehttp 17136 10756 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:39:24,367 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:39:24,765 basehttp 17136 10756 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:39:24,818 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:39:24,965 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:39:25,082 basehttp 17136 10756 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:40:07,968 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:40:08,026 basehttp 17136 10756 - Broken pipe from ('127.0.0.1', 62967)
+INFO 2025-07-03 04:40:08,324 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:40:08,384 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:40:20,810 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:40:20,881 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:40:28,996 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:40:29,056 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:40:32,629 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:40:33,070 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:40:33,262 basehttp 17136 32076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:40:33,573 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:40:34,364 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:40:34,418 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:40:34,562 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:40:34,665 basehttp 17136 32076 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:40:52,749 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:40:52,818 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:40:53,167 basehttp 17136 32076 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:40:53,660 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:41:10,669 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:41:10,720 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:41:10,868 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:41:10,968 basehttp 17136 32076 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:41:13,781 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:41:13,849 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:41:14,202 basehttp 17136 32076 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:41:14,708 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:41:31,853 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:41:31,919 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:41:32,045 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:41:32,166 basehttp 17136 32076 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:42:23,498 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:42:23,929 basehttp 17136 32076 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:42:24,133 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:42:24,431 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:43:22,179 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:43:22,236 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:43:22,371 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:43:22,492 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:43:25,199 basehttp 17136 32076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:43:25,267 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:43:25,642 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:43:26,141 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:44:39,495 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:44:39,551 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:44:39,687 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:44:39,811 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:44:42,253 basehttp 17136 32076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:44:42,322 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:44:42,683 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:44:43,183 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:45:23,797 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:45:23,852 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:45:23,986 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:45:24,111 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:46:47,420 basehttp 17136 32076 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:46:47,464 basehttp 17136 19556 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:48:22,450 basehttp 17136 32076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:48:22,906 basehttp 17136 19556 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:48:23,072 basehttp 17136 21244 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:48:23,395 basehttp 17136 32076 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:48:24,232 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:48:24,283 basehttp 17136 32076 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:48:24,431 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:48:24,529 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:48:34,561 basehttp 17136 21244 "OPTIONS /api/frequencies/6/audio/ HTTP/1.1" 200 0
+WARNING 2025-07-03 04:48:34,581 log 17136 21244 Not Found: /api/frequencies/6/audio/
+WARNING 2025-07-03 04:48:34,582 basehttp 17136 21244 "GET /api/frequencies/6/audio/ HTTP/1.1" 404 9107
+WARNING 2025-07-03 04:48:52,075 log 17136 9420 Not Found: /api/frequencies/6/audio/
+WARNING 2025-07-03 04:48:52,076 basehttp 17136 9420 "GET /api/frequencies/6/audio/ HTTP/1.1" 404 9107
+WARNING 2025-07-03 04:48:59,209 log 17136 21244 Bad Request: /api/sessions/
+WARNING 2025-07-03 04:48:59,209 basehttp 17136 21244 "POST /api/sessions/ HTTP/1.1" 400 48
+WARNING 2025-07-03 04:49:03,374 log 17136 21244 Bad Request: /api/sessions/
+WARNING 2025-07-03 04:49:03,375 basehttp 17136 21244 "POST /api/sessions/ HTTP/1.1" 400 48
+INFO 2025-07-03 04:49:05,559 basehttp 17136 19556 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:49:05,626 basehttp 17136 32076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 04:49:05,971 basehttp 17136 21244 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:49:06,480 basehttp 17136 32076 "GET /api/dashboard-stats/ HTTP/1.1" 200 258
+INFO 2025-07-03 04:49:08,129 basehttp 17136 21244 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:49:08,174 basehttp 17136 32076 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:49:08,339 basehttp 17136 19556 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:49:08,419 basehttp 17136 21244 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:50:35,054 autoreload 17136 6924 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:50:36,257 autoreload 31420 31696 Watching for file changes with StatReloader
+INFO 2025-07-03 04:50:52,084 basehttp 31420 11680 "OPTIONS /api/frequencies/6/stream/ HTTP/1.1" 200 0
+INFO 2025-07-03 04:50:52,669 basehttp 31420 11680 "GET /api/frequencies/6/stream/ HTTP/1.1" 200 3765734
+WARNING 2025-07-03 04:51:09,509 log 31420 11680 Bad Request: /api/sessions/
+WARNING 2025-07-03 04:51:09,510 basehttp 31420 11680 "POST /api/sessions/ HTTP/1.1" 400 48
+WARNING 2025-07-03 04:51:32,054 log 31420 11680 Bad Request: /api/sessions/
+WARNING 2025-07-03 04:51:32,054 basehttp 31420 11680 "POST /api/sessions/ HTTP/1.1" 400 48
+INFO 2025-07-03 04:51:45,542 autoreload 31420 31696 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:51:46,084 autoreload 32168 10716 Watching for file changes with StatReloader
+INFO 2025-07-03 04:51:51,970 basehttp 32168 16200 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:51:52,090 basehttp 32168 26936 "GET /api/sessions/ HTTP/1.1" 200 353
+INFO 2025-07-03 04:53:35,196 autoreload 32168 10716 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:53:35,750 autoreload 17136 19192 Watching for file changes with StatReloader
+INFO 2025-07-03 04:54:11,714 autoreload 17136 19192 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:54:12,357 autoreload 29840 9208 Watching for file changes with StatReloader
+INFO 2025-07-03 04:54:52,419 autoreload 29840 9208 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 04:54:52,965 autoreload 31660 300 Watching for file changes with StatReloader
+INFO 2025-07-03 04:55:00,050 basehttp 31660 23188 "GET /api/frequencies/6/stream/ HTTP/1.1" 200 3765734
+INFO 2025-07-03 04:55:02,822 views 31660 23188 Session created by user admin: 3
+INFO 2025-07-03 04:55:02,824 basehttp 31660 23188 "POST /api/sessions/ HTTP/1.1" 201 285
+INFO 2025-07-03 04:55:03,019 basehttp 31660 23188 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:55:03,340 basehttp 31660 4184 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:55:27,761 basehttp 31660 4184 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:55:27,765 basehttp 31660 23188 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:57:18,870 basehttp 31660 23188 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:57:18,873 basehttp 31660 4184 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:57:50,235 basehttp 31660 23188 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:57:50,248 basehttp 31660 4184 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:57:50,581 basehttp 31660 4184 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:57:50,587 basehttp 31660 23188 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:57:58,984 basehttp 31660 23188 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:57:58,987 basehttp 31660 4184 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:58:40,574 basehttp 31660 29276 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:59:31,774 basehttp 31660 23188 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:59:31,774 basehttp 31660 4184 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 04:59:49,308 basehttp 31660 23188 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 04:59:49,314 basehttp 31660 4184 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 05:00:37,092 basehttp 31660 23188 "GET /api/frequencies/ HTTP/1.1" 200 2925
+INFO 2025-07-03 05:00:37,092 basehttp 31660 4184 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 05:01:07,860 basehttp 31660 23188 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:01:08,302 basehttp 31660 4184 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:01:08,508 basehttp 31660 5924 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:01:08,844 basehttp 31660 23188 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:01:09,249 basehttp 31660 23188 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 05:01:09,450 basehttp 31660 5924 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 05:01:10,901 basehttp 31660 23188 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:01:10,968 basehttp 31660 4184 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:01:11,340 basehttp 31660 5924 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:01:11,864 basehttp 31660 4184 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:02:13,365 basehttp 31660 17360 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:02:33,388 basehttp 31660 29508 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:02:33,936 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:03:01,982 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:03:02,363 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:03:13,098 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:03:47,635 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:04:07,261 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:04:35,813 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:04:42,599 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:05:51,727 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:06:47,648 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:07:29,937 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:08:03,714 basehttp 31660 29328 "GET /api/pdfreports/ HTTP/1.1" 200 352
+INFO 2025-07-03 05:08:23,942 basehttp 31660 29328 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 05:08:24,598 basehttp 31660 32484 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 05:08:24,872 basehttp 31660 7248 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:08:25,003 views 31660 7248 PDF Report created by user admin: 2
+INFO 2025-07-03 05:08:25,004 basehttp 31660 7248 "POST /api/pdfreports/ HTTP/1.1" 201 266
+INFO 2025-07-03 05:08:25,192 basehttp 31660 7248 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 05:10:07,506 basehttp 31660 32484 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:10:07,570 basehttp 31660 29328 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:10:07,953 basehttp 31660 7248 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:10:08,431 basehttp 31660 29328 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:12:02,628 autoreload 31660 300 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\models.py changed, reloading.
+INFO 2025-07-03 05:12:03,186 autoreload 23912 21184 Watching for file changes with StatReloader
+INFO 2025-07-03 05:12:28,716 autoreload 23912 21184 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\models.py changed, reloading.
+INFO 2025-07-03 05:12:29,284 autoreload 32140 8056 Watching for file changes with StatReloader
+INFO 2025-07-03 05:17:35,465 autoreload 22388 29792 Watching for file changes with StatReloader
+INFO 2025-07-03 05:17:39,225 basehttp 22388 31008 "GET /api/pdfreports/ HTTP/1.1" 200 687
+INFO 2025-07-03 05:17:50,141 autoreload 22016 10392 Watching for file changes with StatReloader
+INFO 2025-07-03 05:21:24,414 autoreload 31112 29392 Watching for file changes with StatReloader
+WARNING 2025-07-03 05:21:29,813 log 31112 26724 Not Found: /api/dashboard-stats/
+WARNING 2025-07-03 05:21:29,813 log 31112 2752 Not Found: /api/profile/
+WARNING 2025-07-03 05:21:29,813 basehttp 31112 26724 "GET /api/dashboard-stats/ HTTP/1.1" 404 7434
+WARNING 2025-07-03 05:21:29,813 basehttp 31112 2752 "GET /api/profile/ HTTP/1.1" 404 7410
+WARNING 2025-07-03 05:21:29,820 log 31112 24864 Not Found: /api/profile/
+WARNING 2025-07-03 05:21:29,824 log 31112 31528 Not Found: /api/dashboard-stats/
+WARNING 2025-07-03 05:21:29,824 basehttp 31112 24864 "GET /api/profile/ HTTP/1.1" 404 7410
+WARNING 2025-07-03 05:21:29,824 basehttp 31112 31528 "GET /api/dashboard-stats/ HTTP/1.1" 404 7434
+WARNING 2025-07-03 05:21:32,101 log 31112 31528 Not Found: /api/dashboard-stats/
+WARNING 2025-07-03 05:21:32,105 log 31112 24864 Not Found: /api/profile/
+WARNING 2025-07-03 05:21:32,105 basehttp 31112 31528 "GET /api/dashboard-stats/ HTTP/1.1" 404 7434
+WARNING 2025-07-03 05:21:32,106 basehttp 31112 24864 "GET /api/profile/ HTTP/1.1" 404 7410
+INFO 2025-07-03 05:21:36,410 views 31112 24864 Successful login: admin
+INFO 2025-07-03 05:21:36,411 basehttp 31112 24864 "POST /api/login/ HTTP/1.1" 200 825
+WARNING 2025-07-03 05:21:38,047 log 31112 24864 Not Found: /api/dashboard-stats/
+WARNING 2025-07-03 05:21:38,052 log 31112 31528 Not Found: /api/profile/
+WARNING 2025-07-03 05:21:38,053 basehttp 31112 24864 "GET /api/dashboard-stats/ HTTP/1.1" 404 7434
+WARNING 2025-07-03 05:21:38,057 log 31112 26724 Not Found: /api/dashboard-stats/
+WARNING 2025-07-03 05:21:38,058 basehttp 31112 31528 "GET /api/profile/ HTTP/1.1" 404 7410
+WARNING 2025-07-03 05:21:38,063 log 31112 24864 Not Found: /api/profile/
+WARNING 2025-07-03 05:21:38,063 basehttp 31112 26724 "GET /api/dashboard-stats/ HTTP/1.1" 404 7434
+WARNING 2025-07-03 05:21:38,063 basehttp 31112 24864 "GET /api/profile/ HTTP/1.1" 404 7410
+INFO 2025-07-03 05:21:49,194 autoreload 31112 29392 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 05:21:49,981 autoreload 10648 26424 Watching for file changes with StatReloader
+INFO 2025-07-03 05:21:52,457 basehttp 10648 29732 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:21:52,901 basehttp 10648 32264 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:22:05,999 basehttp 10648 32264 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 05:22:06,199 basehttp 10648 29732 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 05:22:13,863 basehttp 10648 32264 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:22:14,325 basehttp 10648 29732 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:22:33,927 basehttp 10648 29732 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 05:22:34,138 basehttp 10648 32264 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 05:22:37,108 basehttp 10648 29732 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:22:37,538 basehttp 10648 32264 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:22:37,845 basehttp 10648 2388 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:22:38,028 basehttp 10648 29732 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:22:39,253 basehttp 10648 29732 "GET /api/chatbotlogs/ HTTP/1.1" 200 52
+INFO 2025-07-03 05:22:39,397 basehttp 10648 2388 "GET /api/chatbotlogs/ HTTP/1.1" 200 52
+INFO 2025-07-03 05:22:44,045 views 10648 2388 Chatbot log created by user admin: 2
+INFO 2025-07-03 05:22:44,046 basehttp 10648 2388 "POST /api/chatbotlogs/ HTTP/1.1" 201 575
+INFO 2025-07-03 05:22:53,051 basehttp 10648 29732 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:22:53,116 basehttp 10648 32264 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 05:22:53,501 basehttp 10648 2388 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 05:22:54,578 basehttp 10648 32264 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 13:16:54,638 autoreload 31824 31300 Watching for file changes with StatReloader
+INFO 2025-07-03 14:10:38,878 autoreload 15568 16272 Watching for file changes with StatReloader
+ERROR 2025-07-03 14:11:03,894 log 15568 14864 Invalid HTTP_HOST header: '192.168.0.11:8000'. You may need to add '192.168.0.11' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\http\request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '192.168.0.11:8000'. You may need to add '192.168.0.11' to ALLOWED_HOSTS.
+WARNING 2025-07-03 14:11:03,896 basehttp 15568 14864 "GET /admin HTTP/1.1" 400 76049
+ERROR 2025-07-03 14:11:03,948 log 15568 32236 Invalid HTTP_HOST header: '192.168.0.11:8000'. You may need to add '192.168.0.11' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\http\request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '192.168.0.11:8000'. You may need to add '192.168.0.11' to ALLOWED_HOSTS.
+WARNING 2025-07-03 14:11:03,949 basehttp 15568 32236 "GET /favicon.ico HTTP/1.1" 400 76066
+INFO 2025-07-03 14:12:25,714 autoreload 12484 6864 Watching for file changes with StatReloader
+INFO 2025-07-03 14:12:27,998 basehttp 12484 14656 "GET /admin HTTP/1.1" 301 0
+INFO 2025-07-03 14:12:28,024 basehttp 12484 12856 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-03 14:12:28,114 basehttp 12484 12856 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4175
+INFO 2025-07-03 14:12:28,177 basehttp 12484 12856 "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-07-03 14:12:28,203 basehttp 12484 12856 "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-07-03 14:12:28,207 basehttp 12484 3184 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-07-03 14:12:28,215 basehttp 12484 21184 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-07-03 14:12:28,232 basehttp 12484 21972 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-07-03 14:12:28,235 basehttp 12484 14400 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-07-03 14:12:28,235 basehttp 12484 26424 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-07-03 14:12:33,228 basehttp 12484 12856 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-03 14:12:34,059 basehttp 12484 3184 "GET /admin/ HTTP/1.1" 200 11150
+INFO 2025-07-03 14:12:34,076 basehttp 12484 21184 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-07-03 14:12:34,096 basehttp 12484 14400 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-07-03 14:12:34,096 basehttp 12484 21972 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-07-03 14:21:19,184 views 12484 8752 Successful login: admin
+INFO 2025-07-03 14:21:19,185 basehttp 12484 8752 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 14:28:22,065 views 12484 1576 Registration attempt with data: {'username': 'test', 'email': 'ozaycagri13@gmail.com', 'password': 'TestPassword123!', 'password_confirm': 'TestPassword123!', 'first_name': 'Test', 'last_name': 'User'}
+INFO 2025-07-03 14:28:22,857 views 12484 1576 Attempting to create user: test with email: ozaycagri13@gmail.com
+INFO 2025-07-03 14:28:23,497 views 12484 1576 Activation email queued for user: test with frontend URL: http://localhost:3000/activate?uid=NTM&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzUxNTQ1NzAzLCJpYXQiOjE3NTE1NDIxMDMsImp0aSI6IjMyNDc2ZDVmZmQ0MjQ5MjViYzVkNDRmZmUyMWM0OGUyIiwidXNlcl9pZCI6NTMsInRva2VuX2RhdGEiOnsidXNlcl9pZCI6NTMsInRpbWVzdGFtcCI6MTc1MTU0MjEwMy40OTY1ODIsInV1aWQiOiIyZjg1NWI1Yi05NDdiLTQ4ZWQtYWY1Zi01YzhmNzA3M2U2NWMifX0.0wY5jzuIlulcv8mSiADoY_uJrQDrTm81zAhO_Fq6e-M
+INFO 2025-07-03 14:28:23,497 views 12484 1576 New user registered: test
+INFO 2025-07-03 14:28:23,555 basehttp 12484 1576 "POST /api/register/ HTTP/1.1" 201 131
+INFO 2025-07-03 14:28:25,621 views 12484 31116 Email sent successfully to ['ozaycagri13@gmail.com']
+INFO 2025-07-03 14:40:57,494 autoreload 12836 22512 Watching for file changes with StatReloader
+INFO 2025-07-03 14:44:48,604 views 12836 15564 Successful login: admin
+INFO 2025-07-03 14:44:48,605 basehttp 12836 15564 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 14:45:50,605 autoreload 7404 26608 Watching for file changes with StatReloader
+WARNING 2025-07-03 14:56:23,633 log 7404 32560 Not Found: /
+WARNING 2025-07-03 14:56:23,634 basehttp 7404 32560 "GET / HTTP/1.1" 404 3001
+INFO 2025-07-03 14:56:40,800 views 7404 14688 Successful login: admin
+INFO 2025-07-03 14:56:40,800 basehttp 7404 14688 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 14:57:35,259 autoreload 21856 28968 Watching for file changes with StatReloader
+INFO 2025-07-03 15:08:58,717 views 21856 7636 Successful login: admin
+INFO 2025-07-03 15:08:58,718 basehttp 21856 7636 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 15:16:39,406 views 21856 11528 Successful login: admin
+INFO 2025-07-03 15:16:39,407 basehttp 21856 11528 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 15:28:08,944 views 21856 17060 Successful login: admin
+INFO 2025-07-03 15:28:08,945 basehttp 21856 17060 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 15:35:10,803 views 21856 27584 Successful login: admin
+INFO 2025-07-03 15:35:10,804 basehttp 21856 27584 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 15:39:07,790 views 21856 24056 Successful login: admin
+INFO 2025-07-03 15:39:07,790 basehttp 21856 24056 "POST /api/login/ HTTP/1.1" 200 825
+WARNING 2025-07-03 15:40:02,478 log 21856 28332 Unauthorized: /api/dashboard-stats/
+WARNING 2025-07-03 15:40:02,478 basehttp 21856 28332 "GET /api/dashboard-stats/ HTTP/1.1" 401 172
+WARNING 2025-07-03 15:40:13,654 log 21856 28332 Unauthorized: /api/dashboard-stats/
+WARNING 2025-07-03 15:40:13,654 basehttp 21856 28332 "GET /api/dashboard-stats/ HTTP/1.1" 401 172
+INFO 2025-07-03 15:40:17,985 views 21856 28332 Successful login: admin
+INFO 2025-07-03 15:40:17,985 basehttp 21856 28332 "POST /api/login/ HTTP/1.1" 200 825
+WARNING 2025-07-03 15:40:23,701 log 21856 28332 Unauthorized: /api/dashboard-stats/
+WARNING 2025-07-03 15:40:23,702 basehttp 21856 28332 "GET /api/dashboard-stats/ HTTP/1.1" 401 172
+INFO 2025-07-03 15:40:52,387 basehttp 21856 28332 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 15:43:22,950 views 21856 11568 Successful login: admin
+INFO 2025-07-03 15:43:22,951 basehttp 21856 11568 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 15:44:11,342 basehttp 21856 6304 "GET /api/dailylogs/ HTTP/1.1" 200 330
+ERROR 2025-07-03 15:44:38,445 views 21856 6304 DailyLog creation error: duplicate key value violates unique constraint "api_dailylog_user_id_date_23690bfd_uniq"
+DETAIL:  Key (user_id, date)=(2, 2025-07-03) already exists.
+
+ERROR 2025-07-03 15:44:39,091 log 21856 6304 Internal Server Error: /api/dailylogs/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "api_dailylog_user_id_date_23690bfd_uniq"
+DETAIL:  Key (user_id, date)=(2, 2025-07-03) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\generics.py", line 246, in post
+    return self.create(request, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py", line 530, in perform_create
+    daily_log = serializer.save(user=self.request.user)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+                    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 663, in create
+    obj.save(force_insert=True, using=self.db)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 902, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 1008, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 1169, in _save_table
+    results = self._do_insert(
+        cls._base_manager, using, fields, returning_fields, raw
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 1210, in _do_insert
+    return manager._insert(
+           ~~~~~~~~~~~~~~~^
+        [self],
+        ^^^^^^^
+    ...<3 lines>...
+        raw=raw,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 1868, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1882, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "api_dailylog_user_id_date_23690bfd_uniq"
+DETAIL:  Key (user_id, date)=(2, 2025-07-03) already exists.
+
+ERROR 2025-07-03 15:44:39,099 basehttp 21856 6304 "POST /api/dailylogs/ HTTP/1.1" 500 215096
+INFO 2025-07-03 15:44:54,833 autoreload 24920 14112 Watching for file changes with StatReloader
+ERROR 2025-07-03 15:44:59,744 views 24920 6928 DailyLog creation error: duplicate key value violates unique constraint "api_dailylog_user_id_date_23690bfd_uniq"
+DETAIL:  Key (user_id, date)=(2, 2025-07-03) already exists.
+
+ERROR 2025-07-03 15:45:00,265 log 24920 6928 Internal Server Error: /api/dailylogs/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "api_dailylog_user_id_date_23690bfd_uniq"
+DETAIL:  Key (user_id, date)=(2, 2025-07-03) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\generics.py", line 246, in post
+    return self.create(request, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py", line 530, in perform_create
+    daily_log = serializer.save(user=self.request.user)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+                    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 663, in create
+    obj.save(force_insert=True, using=self.db)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 902, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 1008, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 1169, in _save_table
+    results = self._do_insert(
+        cls._base_manager, using, fields, returning_fields, raw
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\base.py", line 1210, in _do_insert
+    return manager._insert(
+           ~~~~~~~~~~~~~~~^
+        [self],
+        ^^^^^^^
+    ...<3 lines>...
+        raw=raw,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 1868, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1882, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "api_dailylog_user_id_date_23690bfd_uniq"
+DETAIL:  Key (user_id, date)=(2, 2025-07-03) already exists.
+
+ERROR 2025-07-03 15:45:00,272 basehttp 24920 6928 "POST /api/dailylogs/ HTTP/1.1" 500 215096
+INFO 2025-07-03 15:45:54,133 autoreload 24920 14112 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 15:45:54,574 autoreload 25852 16668 Watching for file changes with StatReloader
+INFO 2025-07-03 15:46:07,483 autoreload 25852 16668 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 15:46:07,963 autoreload 8924 15056 Watching for file changes with StatReloader
+INFO 2025-07-03 15:47:19,388 autoreload 8924 15056 C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\views.py changed, reloading.
+INFO 2025-07-03 15:47:19,879 autoreload 26896 8080 Watching for file changes with StatReloader
+WARNING 2025-07-03 15:47:24,767 views 26896 25908 User admin attempted to create multiple DailyLogs for 2025-07-03
+WARNING 2025-07-03 15:47:24,769 log 26896 25908 Bad Request: /api/dailylogs/
+WARNING 2025-07-03 15:47:24,769 basehttp 26896 25908 "POST /api/dailylogs/ HTTP/1.1" 400 127
+INFO 2025-07-03 16:04:21,253 views 26896 14588 Successful login: admin
+INFO 2025-07-03 16:04:21,254 basehttp 26896 14588 "POST /api/login/ HTTP/1.1" 200 825
+ERROR 2025-07-03 16:04:53,378 log 26896 14516 Internal Server Error: /api/sessions/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 243, in __get__
+    rel_obj = self.field.get_cached_value(instance)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'frequency'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column api_frequency.audio_url does not exist
+LINE 1: ...entific_reference", "api_frequency"."audio_file", "api_frequ...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "api_frequency.audio_file".
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\serializers.py", line 248, in get_frequency_name
+    return str(obj.frequency) if obj.frequency else None
+                                 ^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 261, in __get__
+    rel_obj = self.get_object(instance)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 224, in get_object
+    return qs.get(self.field.get_reverse_related_filter(instance))
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column api_frequency.audio_url does not exist
+LINE 1: ...entific_reference", "api_frequency"."audio_file", "api_frequ...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "api_frequency.audio_file".
+
+ERROR 2025-07-03 16:04:53,386 basehttp 26896 14516 "GET /api/sessions/ HTTP/1.1" 500 216560
+INFO 2025-07-03 16:05:00,130 autoreload 19572 1616 Watching for file changes with StatReloader
+ERROR 2025-07-03 16:05:05,982 log 19572 15032 Internal Server Error: /api/sessions/
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 243, in __get__
+    rel_obj = self.field.get_cached_value(instance)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\mixins.py", line 37, in get_cached_value
+    return instance._state.fields_cache[self.cache_name]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'frequency'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column api_frequency.audio_url does not exist
+LINE 1: ...entific_reference", "api_frequency"."audio_file", "api_frequ...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "api_frequency.audio_file".
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\rest_framework\fields.py", line 1870, in to_representation
+    return method(value)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\backend\api\serializers.py", line 248, in get_frequency_name
+    return str(obj.frequency) if obj.frequency else None
+                                 ^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 261, in __get__
+    rel_obj = self.get_object(instance)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 224, in get_object
+    return qs.get(self.field.get_reverse_related_filter(instance))
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\cagri\OneDrive\Desktop\HealtWave\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column api_frequency.audio_url does not exist
+LINE 1: ...entific_reference", "api_frequency"."audio_file", "api_frequ...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "api_frequency.audio_file".
+
+ERROR 2025-07-03 16:05:05,989 basehttp 19572 15032 "GET /api/sessions/ HTTP/1.1" 500 216560
+INFO 2025-07-03 16:06:04,327 autoreload 27080 672 Watching for file changes with StatReloader
+INFO 2025-07-03 16:06:08,026 basehttp 27080 20928 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 16:11:37,814 views 27080 20080 Successful login: admin
+INFO 2025-07-03 16:11:37,815 basehttp 27080 20080 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 16:16:34,496 views 27080 27076 Successful login: admin
+INFO 2025-07-03 16:16:34,497 basehttp 27080 27076 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 16:18:28,724 basehttp 27080 2396 "GET /admin HTTP/1.1" 301 0
+INFO 2025-07-03 16:18:28,736 basehttp 27080 4488 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-07-03 16:18:28,759 basehttp 27080 4488 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4175
+INFO 2025-07-03 16:18:28,833 basehttp 27080 4488 "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-07-03 16:18:28,834 basehttp 27080 4488 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-07-03 16:18:28,836 basehttp 27080 4488 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-07-03 16:18:28,837 basehttp 27080 4488 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-07-03 16:18:28,839 basehttp 27080 4488 "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-07-03 16:18:28,840 basehttp 27080 4488 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-07-03 16:18:28,841 basehttp 27080 4488 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+WARNING 2025-07-03 16:18:28,884 log 27080 4488 Not Found: /favicon.ico
+WARNING 2025-07-03 16:18:28,884 basehttp 27080 4488 "GET /favicon.ico HTTP/1.1" 404 3049
+INFO 2025-07-03 16:18:31,713 basehttp 27080 4488 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-07-03 16:18:31,915 basehttp 27080 4488 "GET /admin/ HTTP/1.1" 200 11150
+INFO 2025-07-03 16:18:31,946 basehttp 27080 4488 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-07-03 16:18:31,964 basehttp 27080 3856 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-07-03 16:18:31,964 basehttp 27080 4488 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-07-03 16:18:34,374 basehttp 27080 4488 "GET /admin/api/frequency/ HTTP/1.1" 200 18748
+INFO 2025-07-03 16:18:34,419 basehttp 27080 4488 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-07-03 16:18:34,422 basehttp 27080 14348 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-07-03 16:18:34,428 basehttp 27080 20256 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2025-07-03 16:18:34,428 basehttp 27080 19964 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-07-03 16:18:34,438 basehttp 27080 14348 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-07-03 16:18:34,444 basehttp 27080 20256 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-07-03 16:18:34,444 basehttp 27080 4488 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-07-03 16:18:34,450 basehttp 27080 14348 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-07-03 16:18:34,455 basehttp 27080 20256 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-07-03 16:18:34,458 basehttp 27080 30280 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-07-03 16:18:34,500 basehttp 27080 19964 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-07-03 16:18:34,514 basehttp 27080 19964 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-07-03 16:18:34,895 basehttp 27080 3856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 16:18:34,924 basehttp 27080 3856 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-07-03 16:18:34,924 basehttp 27080 19964 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-07-03 16:18:34,925 basehttp 27080 30280 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-07-03 16:18:38,123 basehttp 27080 19964 "GET /admin/api/frequency/6/change/ HTTP/1.1" 200 19816
+INFO 2025-07-03 16:18:38,161 basehttp 27080 19964 "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+INFO 2025-07-03 16:18:38,164 basehttp 27080 30280 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-07-03 16:18:38,181 basehttp 27080 30280 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+INFO 2025-07-03 16:18:38,195 basehttp 27080 30280 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-07-03 16:18:38,274 basehttp 27080 3856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 16:18:40,989 basehttp 27080 3856 - Broken pipe from ('127.0.0.1', 64162)
+INFO 2025-07-03 16:18:41,027 basehttp 27080 30280 "GET /media/frequencies/852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 200 3765734
+INFO 2025-07-03 16:42:00,022 views 27080 24532 Successful login: admin
+INFO 2025-07-03 16:42:00,023 basehttp 27080 24532 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 16:42:09,140 basehttp 27080 21040 "GET /media/frequencies/852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 200 3765734
+INFO 2025-07-03 16:43:29,996 views 27080 9996 Successful login: admin
+INFO 2025-07-03 16:43:29,996 basehttp 27080 9996 "POST /api/login/ HTTP/1.1" 200 825
+WARNING 2025-07-03 16:43:42,506 log 27080 27160 Not Found: /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3
+WARNING 2025-07-03 16:43:42,506 basehttp 27080 27160 "GET /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 404 3385
+WARNING 2025-07-03 16:43:42,537 log 27080 27332 Not Found: /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3
+WARNING 2025-07-03 16:43:42,537 basehttp 27080 27332 "GET /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 404 3385
+INFO 2025-07-03 16:43:48,479 basehttp 27080 4196 "GET /media/frequencies/852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 200 3765734
+INFO 2025-07-03 17:01:54,145 basehttp 27080 3296 "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:01:55,158 views 27080 3296 Successful login: admin
+INFO 2025-07-03 17:01:55,159 basehttp 27080 3296 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 17:01:57,197 basehttp 27080 3296 "OPTIONS /api/dashboard-stats/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:01:57,198 basehttp 27080 31824 "OPTIONS /api/profile/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:01:57,199 basehttp 27080 4472 "OPTIONS /api/dashboard-stats/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:01:57,201 basehttp 27080 27924 "OPTIONS /api/profile/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:01:57,636 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:01:58,080 basehttp 27080 27924 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:01:58,086 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:01:58,552 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:02:01,681 basehttp 27080 4472 "OPTIONS /api/chatbotlogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:02:01,683 basehttp 27080 31824 "OPTIONS /api/chatbotlogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:02:01,875 basehttp 27080 31824 "GET /api/chatbotlogs/ HTTP/1.1" 200 627
+INFO 2025-07-03 17:02:02,060 basehttp 27080 4472 "GET /api/chatbotlogs/ HTTP/1.1" 200 627
+INFO 2025-07-03 17:02:07,091 views 27080 4472 Chatbot log created by user admin: 3
+INFO 2025-07-03 17:02:07,092 basehttp 27080 4472 "POST /api/chatbotlogs/ HTTP/1.1" 201 496
+INFO 2025-07-03 17:06:09,684 views 27080 6788 Successful login: admin
+INFO 2025-07-03 17:06:09,684 basehttp 27080 6788 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-03 17:06:12,844 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:06:12,909 basehttp 27080 27924 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:06:13,260 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:06:13,737 basehttp 27080 27924 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:07:01,102 basehttp 27080 27924 "OPTIONS /api/dailylogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:01,106 basehttp 27080 4472 "OPTIONS /api/dailylogs/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:01,309 basehttp 27080 4472 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 17:07:01,495 basehttp 27080 27924 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 17:07:15,840 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:07:15,912 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:07:16,265 basehttp 27080 27924 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:07:16,745 basehttp 27080 31824 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:07:20,256 basehttp 27080 31824 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 17:07:20,440 basehttp 27080 27924 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 17:07:27,075 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:07:27,139 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:07:27,484 basehttp 27080 27924 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:07:27,954 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:07:30,078 basehttp 27080 27924 "OPTIONS /api/frequencies/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:30,078 basehttp 27080 31824 "OPTIONS /api/sessions/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:30,079 basehttp 27080 4472 "OPTIONS /api/sessions/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:30,079 basehttp 27080 24076 "OPTIONS /api/frequencies/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:30,400 basehttp 27080 4472 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 17:07:30,745 basehttp 27080 24076 "GET /api/frequencies/ HTTP/1.1" 200 3027
+INFO 2025-07-03 17:07:30,755 basehttp 27080 31824 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 17:07:30,922 basehttp 27080 4472 "GET /api/frequencies/ HTTP/1.1" 200 3027
+INFO 2025-07-03 17:07:56,904 basehttp 27080 4472 "OPTIONS /api/frequencies/6/stream/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:07:57,088 basehttp 27080 4472 "GET /api/frequencies/6/stream/ HTTP/1.1" 200 435
+INFO 2025-07-03 17:08:00,669 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:08:00,733 basehttp 27080 24076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:08:01,081 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:08:01,529 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:08:02,725 basehttp 27080 4472 "GET /api/frequencies/ HTTP/1.1" 200 3027
+INFO 2025-07-03 17:08:02,838 basehttp 27080 24076 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 17:08:02,908 basehttp 27080 31824 "GET /api/frequencies/ HTTP/1.1" 200 3027
+INFO 2025-07-03 17:08:03,130 basehttp 27080 4472 "GET /api/sessions/ HTTP/1.1" 200 639
+WARNING 2025-07-03 17:08:11,814 log 27080 18128 Not Found: /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3
+WARNING 2025-07-03 17:08:11,814 basehttp 27080 18128 "GET /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 404 3385
+INFO 2025-07-03 17:08:11,836 basehttp 27080 18128 - Broken pipe from ('192.168.0.22', 60764)
+WARNING 2025-07-03 17:08:11,849 log 27080 22332 Not Found: /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3
+WARNING 2025-07-03 17:08:11,849 basehttp 27080 22332 "GET /media/frequencies/396hz/396_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 404 3385
+INFO 2025-07-03 17:08:17,553 basehttp 27080 9748 "GET /media/frequencies/852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 200 3765734
+INFO 2025-07-03 17:08:37,109 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:08:37,171 basehttp 27080 24076 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:08:37,536 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:08:37,987 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:08:38,627 basehttp 27080 24076 "OPTIONS /api/pdfreports/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:08:38,628 basehttp 27080 4472 "OPTIONS /api/pdfreports/ HTTP/1.1" 200 0
+INFO 2025-07-03 17:08:38,822 basehttp 27080 4472 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 17:08:38,997 basehttp 27080 24076 "GET /api/pdfreports/ HTTP/1.1" 200 619
+INFO 2025-07-03 17:08:42,421 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:08:42,484 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:08:42,811 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:08:43,321 basehttp 27080 31824 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:08:44,962 basehttp 27080 31824 "GET /api/chatbotlogs/ HTTP/1.1" 200 1124
+INFO 2025-07-03 17:08:45,142 basehttp 27080 24076 "GET /api/chatbotlogs/ HTTP/1.1" 200 1124
+INFO 2025-07-03 17:08:49,288 views 27080 24076 Chatbot log created by user admin: 4
+INFO 2025-07-03 17:08:49,289 basehttp 27080 24076 "POST /api/chatbotlogs/ HTTP/1.1" 201 595
+INFO 2025-07-03 17:08:55,399 views 27080 24076 Chatbot log created by user admin: 5
+INFO 2025-07-03 17:08:55,400 basehttp 27080 24076 "POST /api/chatbotlogs/ HTTP/1.1" 201 603
+INFO 2025-07-03 17:09:01,576 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:09:01,640 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:09:01,977 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:09:02,457 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:09:08,063 basehttp 27080 4472 "GET /api/chatbotlogs/ HTTP/1.1" 200 2324
+INFO 2025-07-03 17:09:08,242 basehttp 27080 24076 "GET /api/chatbotlogs/ HTTP/1.1" 200 2324
+INFO 2025-07-03 17:09:11,216 views 27080 24076 Chatbot log created by user admin: 6
+INFO 2025-07-03 17:09:11,217 basehttp 27080 24076 "POST /api/chatbotlogs/ HTTP/1.1" 201 580
+INFO 2025-07-03 17:09:12,410 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:09:12,476 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:09:12,803 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:09:13,284 basehttp 27080 31824 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+WARNING 2025-07-03 17:09:18,591 log 27080 29844 Not Found: /
+WARNING 2025-07-03 17:09:18,591 basehttp 27080 29844 "GET / HTTP/1.1" 404 2998
+INFO 2025-07-03 17:09:24,673 basehttp 27080 29844 "GET /admin/ HTTP/1.1" 200 11150
+INFO 2025-07-03 17:09:28,591 basehttp 27080 29844 "GET /admin/api/chatbotlog/ HTTP/1.1" 200 19391
+INFO 2025-07-03 17:09:28,648 basehttp 27080 20316 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2025-07-03 17:09:28,743 basehttp 27080 29844 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 17:09:33,914 basehttp 27080 31824 "GET /api/chatbotlogs/ HTTP/1.1" 200 2905
+INFO 2025-07-03 17:09:34,097 basehttp 27080 24076 "GET /api/chatbotlogs/ HTTP/1.1" 200 2905
+INFO 2025-07-03 17:09:37,933 views 27080 24076 Chatbot log created by user admin: 7
+INFO 2025-07-03 17:09:37,934 basehttp 27080 24076 "POST /api/chatbotlogs/ HTTP/1.1" 201 598
+INFO 2025-07-03 17:09:41,212 basehttp 27080 29844 "GET /admin/api/chatbotlog/ HTTP/1.1" 200 20086
+INFO 2025-07-03 17:09:41,372 basehttp 27080 29844 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-07-03 17:09:51,637 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:09:51,699 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:09:52,033 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:09:52,567 basehttp 27080 4472 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:09:59,005 basehttp 27080 4472 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 17:09:59,182 basehttp 27080 24076 "GET /api/dailylogs/ HTTP/1.1" 200 330
+INFO 2025-07-03 17:10:01,038 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:10:01,101 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:10:01,434 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:10:01,931 basehttp 27080 31824 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:10:02,153 basehttp 27080 24076 "GET /api/frequencies/ HTTP/1.1" 200 3027
+INFO 2025-07-03 17:10:02,272 basehttp 27080 31824 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 17:10:02,341 basehttp 27080 4472 "GET /api/frequencies/ HTTP/1.1" 200 3027
+INFO 2025-07-03 17:10:02,561 basehttp 27080 24076 "GET /api/sessions/ HTTP/1.1" 200 639
+INFO 2025-07-03 17:10:11,752 basehttp 27080 4472 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:10:11,816 basehttp 27080 31824 "GET /api/profile/ HTTP/1.1" 200 176
+INFO 2025-07-03 17:10:12,142 basehttp 27080 24076 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-03 17:10:12,630 basehttp 27080 31824 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
