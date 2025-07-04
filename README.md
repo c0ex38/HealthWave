@@ -286,7 +286,7 @@
           <li style="margin: 10px 0; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.3);">
             <strong>📚 Eğitici İçerik:</strong> Solfeggio frekansları ve sağlık hakkında bilgiler
           </li>
-          <li style="margin: 10px 0; padding: 8px 0;">
+          <li style="margin: 10px 0; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.3);">
             <strong>🗣️ Doğal Dil İşleme:</strong> İnsan benzeri etkileşim deneyimi
           </li>
         </ul>
@@ -785,7 +785,7 @@
 </div>
 
 <div align="center">
-
+  
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
     <span style="background: linear-gradient(135deg, #ffeef8 0%, #f0f8ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; color: #667eea;">
@@ -915,9 +915,30 @@
   <table style="background: linear-gradient(135deg, #ffeef8 0%, #f0f8ff 100%); border-radius: 20px; padding: 30px; margin: 20px 0;">
     <tr>
       <td align="center" style="color: #667eea; font-size: 18px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+        <img src="resimler/mobile/splash_screen.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/register.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/login.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/homepage_1.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/homepage_2.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/daily.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/daily_log.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/session.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/session_ortasi.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
+        <img src="resimler/mobile/session_log.jpg"  style="width: 100%; max-width: 280px; border-radius: 8px;" />
         <br><br>
-        <em>🚧 Android uygulama ekran görüntüleri yakında eklenecek...</em>
+        <strong>Mobil uygulama özellikleri:</strong>
+        <br>
+        📱 Kullanıcı dostu arayüz
+        <br>
+        🎵 Ses terapisi oturumları
+        <br>
+        📊 Günlük takip sistemi
+        <br>
+        🔐 Güvenli giriş sistemi
+        <br>
+        💬 Sohbet ve danışmanlık
+        <br>
+        📈 İlerleme raporları
         <br><br>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -1077,7 +1098,7 @@
   
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-    <span style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+    <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
       🔒 Güvenlik
     </span>
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
@@ -1361,13 +1382,13 @@
           🚀 Teknoloji Toplulukları
         </h4>
         <ul style="list-style: none; padding: 0; margin: 0;">
-          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #fff;">
             <span style="margin-right: 10px;">🐍</span> Django ve Next.js topluluklarına
           </li>
-          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #fff;">
             <span style="margin-right: 10px;">⚡</span> Supabase ekibine
           </li>
-          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #fff;">
             <span style="margin-right: 10px;">📱</span> Kotlin/Android geliştirici topluluğuna
           </li>
         </ul>
@@ -1377,13 +1398,13 @@
           🔬 Araştırma & Kaynak
         </h4>
         <ul style="list-style: none; padding: 0; margin: 0;">
-          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #fff;">
             <span style="margin-right: 10px;">🎵</span> Solfeggio frekansları araştırmacılarına
           </li>
-          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #fff;">
             <span style="margin-right: 10px;">📚</span> Açık kaynak kütüphane geliştiricilerine
           </li>
-          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #FFD700;">
+          <li style="margin: 10px 0; padding: 8px 12px; background: rgba(255,255,255,0.1); border-radius: 8px; border-left: 4px solid #fff;">
             <span style="margin-right: 10px;">🌐</span> Sağlık teknolojileri topluluğuna
           </li>
         </ul>
@@ -1505,4 +1526,129 @@
       <img src="https://img.shields.io/badge/⬆️_Başa_Dön-4A90E2?style=for-the-badge&logoColor=white" alt="Başa Dön">
     </a>
   </p>
+</div>
+
+<div align="center">
+  
+  <h4 style="color: #667eea; font-weight: bold; margin: 30px 0 20px 0; font-size: 20px;">
+    🎯 Uygulama Ekranları
+  </h4>
+</div>
+
+<div align="center">
+  <table style="border-collapse: collapse; margin: 20px 0;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/splash_screen.jpg" width="250" alt="Açılış Ekranı" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">🚀 Açılış Ekranı</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">HealtWave logosuna hoş geldiniz</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/homepage.jpg" width="250" alt="Ana Sayfa" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">🏠 Ana Sayfa</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Tüm özellikler bir arada</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/homepage_2.jpg" width="250" alt="Ana Sayfa 2" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">🎵 Ses Terapisi</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Frekanslar ve terapi seçenekleri</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/login.jpg" width="250" alt="Giriş Ekranı" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">🔐 Giriş Ekranı</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Güvenli kullanıcı girişi</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/register.jpg" width="250" alt="Kayıt Ekranı" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">📝 Kayıt Ekranı</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Yeni hesap oluşturma</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/session.jpg" width="250" alt="Oturum Ekranı" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">🎧 Terapi Oturumu</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Ses terapisi dinleme</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/session_ortasi.jpg" width="250" alt="Oturum Orta" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">⏯️ Oturum Kontrolü</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Ses kontrolü ve ayarları</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/session_log.jpg" width="250" alt="Oturum Günlüğü" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">📋 Oturum Günlüğü</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Tamamlanan oturumlar</em>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/daily.jpg" width="250" alt="Günlük Takip" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">📊 Günlük Takip</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Ruh hali ve ilerleme</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="resimler/mobile/daily_log.jpg" width="250" alt="Günlük Detayı" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+        <br><br>
+        <strong style="color: #667eea; font-size: 16px;">📝 Günlük Detayı</strong>
+        <br>
+        <em style="color: #8b5cf6; font-size: 14px;">Detaylı günlük kayıtları</em>
+      </td>
+      <td align="center" style="padding: 10px; opacity: 0.3;">
+        <div style="width: 250px; height: 444px; background: linear-gradient(135deg, #f0f8ff 0%, #e6f3ff 100%); border-radius: 15px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(0,0,0,0.1);">
+          <div style="text-align: center; color: #667eea;">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+            <br><br>
+            <strong>Daha fazla özellik</strong>
+            <br>
+            <em>yakında...</em>
+          </div>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px; opacity: 0.3;">
+        <div style="width: 250px; height: 444px; background: linear-gradient(135deg, #f0f8ff 0%, #e6f3ff 100%); border-radius: 15px; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 20px rgba(0,0,0,0.1);">
+          <div style="text-align: center; color: #667eea;">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+            <br><br>
+            <strong>Güncellemeler</strong>
+            <br>
+            <em>geliyor...</em>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; max-width: 600px; margin: 0 auto;">
+    <h4 style="margin: 0 0 10px 0; font-size: 18px;">
+      🎯 Mobil Uygulama Özellikleri
+    </h4>
+    <p style="margin: 0; font-size: 14px; line-height: 1.6;">
+      HealtWave mobil uygulaması, kullanıcı dostu arayüzü ve güçlü özellikleriyle 
+      mental sağlığınızı desteklemek için tasarlanmıştır. Ses terapisi oturumlarından 
+      günlük takip sistemine kadar her şey elinizin altında!
+    </p>
+  </div>
 </div>

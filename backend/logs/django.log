@@ -1584,3 +1584,7 @@ INFO 2025-07-04 02:23:21,620 basehttp 9696 12656 "GET /api/profile/ HTTP/1.1" 20
 INFO 2025-07-04 02:23:21,693 basehttp 9696 32148 "GET /api/profile/ HTTP/1.1" 200 176
 INFO 2025-07-04 02:23:22,076 basehttp 9696 30788 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
 INFO 2025-07-04 02:23:22,602 basehttp 9696 32148 "GET /api/dashboard-stats/ HTTP/1.1" 200 243
+INFO 2025-07-04 03:01:38,099 autoreload 3692 13580 Watching for file changes with StatReloader
+INFO 2025-07-04 03:01:46,120 views 3692 25956 Successful login: admin
+INFO 2025-07-04 03:01:46,121 basehttp 3692 25956 "POST /api/login/ HTTP/1.1" 200 825
+INFO 2025-07-04 03:02:07,658 basehttp 3692 2816 "GET /media/frequencies/852hz/852_Hz_Tone_Sound_Solfeggio_Frequency_OnlineSound.net.mp3 HTTP/1.1" 200 3765734
